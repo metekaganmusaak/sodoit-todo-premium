@@ -1,12 +1,12 @@
 **Privacy Policy**
 
-Mete Kağan Musaak built the **sodoit: keep notes & pomodoro** as an premium app.
+Mete Kağan Musaak built the **sodoit** as an premium app.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at **sodoit: keep notes & pomodoro** unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at **sodoit** unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
@@ -42,7 +42,7 @@ I want to inform users of this Service that these third parties have access to t
 **Security**
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-**sodoit: keep notes & pomodoro** need to access your camera, file and microphone access permissions. This is because; **sodoit: keep notes & pomodoro** needs camera permission so you can capture photos and add it in your todos. **sodoit: keep notes & pomodoro** needs file access so you can import files into your todos. **sodoit: keep notes & pomodoro** needs microphone access so you can record sounds and add it into your todos. **sodoit: keep notes & pomodoro** is using your own device's storage to store datas. **sodoit: keep notes & pomodoro** need to access your files to write and read your todos.
+**sodoit** need to access your camera, file and microphone access permissions. This is because; **sodoit** needs camera permission so you can capture photos and add it in your todos. **sodoit** needs file access so you can import files into your todos. **sodoit** needs microphone access so you can record sounds and add it into your todos. **sodoit** is using your own device's storage to store datas. **sodoit** need to access your files to write and read your todos.
 
 **Links to Other Sites**
 
